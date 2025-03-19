@@ -48,5 +48,5 @@ To facilitate the **joint training of Python and Simulink models**, we designed 
 ```plaintext
 .
 ├── Algorithm/                   # Source code for SGDSAC, GDSAC, SAC, and TD3 algorithms, along with their corresponding training results
-├── Simulink-DLL-Python-Demo/    # Examples of Simulink-DLL-Python integration
+├── Python-Simulink-DRL-ENV-Demo/    # Examples of Simulink-DLL-Python integration
 └── README.md                    # Project documentation
